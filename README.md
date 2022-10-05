@@ -12,7 +12,7 @@ Spindle: **12000RPM**
 
 ## Build details
 You can find PCBs in [pcb](/pcb) folder (DipTrace).
-CAD files in Fusion 360 format are [here](fusion360/OZ v5 (v215).f3z).
+CAD files in Fusion 360 format are [here](fusion360/OZ_v5.f3z).
 
 ## Software
 OZ CNC includes multiple applications you'll have to build and install.
