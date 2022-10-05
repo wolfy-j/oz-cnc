@@ -5,7 +5,9 @@ Portable CNC machine schematics, CAD plans and software. OZ CNC includes embedde
 
 ## Specifications
 Working area: **80x110 mm** (parametric)
+
 Z working area: **50mm**
+
 Spindle: **12000RPM**
 
 ## Build details
