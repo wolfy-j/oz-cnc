@@ -11,7 +11,7 @@ Z working area: **50mm**
 Spindle: **12000RPM**
 
 ## Build details
-You can find PCBs in [pcb](/pcb) folder.
+You can find PCBs in [pcb](/pcb) folder (DipTrace).
 CAD files in Fusion 360 format are [here](fusion360/OZ v5 (v215).f3z).
 
 ## Software
