@@ -11,7 +11,7 @@ Z working area: **50mm**
 Spindle: **12000RPM**
 
 ## Build details
-You can find PCBs in [pcb] folder.
+You can find PCBs in [pcb](/pcb) folder.
 CAD files in Fusion 360 format are [here](fusion360/OZ v5 (v215).f3z).
 
 ## Software
@@ -45,4 +45,4 @@ Display runs on Arduino.Pro, it's source code located in `software/display`.
 Where h, u, p are hostname, username and password for CNC.js.
 
 # LICENSE
-MIT, see [LICENSE.md].
+MIT, see [LICENSE](LICENSE.md).
