@@ -11,7 +11,8 @@ Z working area: **50mm**
 Spindle: **12000RPM**
 
 ## Build details
-todo
+You can find PCBs in [pcb] folder.
+CAD files in Fusion 360 format are [here](fusion360/OZ v5 (v215).f3z).
 
 ## Software
 OZ CNC includes multiple applications you'll have to build and install.
