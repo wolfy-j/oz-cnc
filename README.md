@@ -2,6 +2,7 @@
 Portable CNC machine schematics, CAD plans and software. OZ CNC includes embedded vacuum motor, lights, realtime display and rigid case, capable of aluminium cutting.
 
 ![OZ CNC](assets/render-1.png)
+![OZ CNC Real](https://i.imgur.com/TmBevsU.jpg)
 
 ## Specifications
 Working area: **80x110 mm** (parametric)
